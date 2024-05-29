@@ -8,8 +8,8 @@
 
 ## Installation
   ```
-    git clone https://github.com/faraui/grp-adm-tg-bot.git
-    cd grp-adm-tg-bot
+    git clone https://github.com/faraui/media-feedback-tg-bot.git
+    cd media-feedback-tg-bot
     pipenv shell
     pipenv install --verbose
   ```
