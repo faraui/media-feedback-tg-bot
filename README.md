@@ -7,14 +7,14 @@
   - Pipenv ([installation guide](https://docs.pipenv.org/install/#installing-pipenv))
 
 ## Installation
-  ```
+  ```sh
     git clone https://github.com/faraui/media-feedback-tg-bot.git
     cd media-feedback-tg-bot
     pipenv shell
     pipenv install --verbose
   ```
 
-## Usage
-  ```
+## Launch
+  ```sh
     pipenv shell && python3 main.py
   ```
